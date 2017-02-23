@@ -1,4 +1,5 @@
 <html>
+  <!--this file uses 3 tic-tac-toe tables so you can win with 3 in a row in 3 different dimensions-->
   <head>
     <style>
     
